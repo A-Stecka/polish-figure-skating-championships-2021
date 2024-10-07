@@ -1,4 +1,5 @@
-# Mistrzostwa Polski w łyżwiarstwie figurowym
-Projekt bazy danych przechowującej informacje potrzebne do organizacji mistrzostw Polski w łyżwiarstwie figurowym wykonany w ramach przedmiotu Bazy Danych
+# Polish Figure Skating Championships  
+A database project for storing information necessary to organize the Polish Figure Skating Championships, created as part of the Databases course.  
 -
-Projekt wykonany wspólnie z [K. Błażyczek](https://github.com/Vesperalin).
+
+Project completed in collaboration with [K. Błażyczek](https://github.com/Vesperalin).
